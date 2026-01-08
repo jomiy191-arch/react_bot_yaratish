@@ -6,7 +6,6 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* BODY + CONTAINER */
 .container {
   min-height: 100vh;
   display: flex;
@@ -38,7 +37,6 @@
   z-index: 0;
 }
 
-/* FORM */
 .form {
   position: relative;
   background: rgba(0, 0, 0, 0.85);
@@ -90,7 +88,6 @@ input:focus {
   box-shadow: 0 0 10px #00fff0, 0 0 20px #ff00ff;
 }
 
-/* BUTTON */
 button {
   width: 100%;
   padding: 14px;
@@ -129,7 +126,6 @@ button:active {
   transform: scale(0.96);
 }
 
-/* SPINNER */
 .spinner {
   width: 24px;
   height: 24px;
